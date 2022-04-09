@@ -42,6 +42,12 @@ Pull down the submissions to `_out/submissions.txt`:
 python tabulate_submissions.py
 ```
 
+Pull down the reviews to `_out/reviews.txt`:
+
+```
+python tabulate_reviews.py
+```
+
 # OpenReview API
 
 - [Documentation](https://openreview-py.readthedocs.io/en/latest/)
