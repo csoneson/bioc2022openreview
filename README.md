@@ -3,8 +3,8 @@
 In your `.zshrc` or equivalent, add your OpenReview login details as environment variables, e.g.
 
 ```
-OPENREVIEW_USERNAME='your_username'
-OPENREVIEW_PASSWORD='your password'
+export OPENREVIEW_USERNAME='your_username'
+export OPENREVIEW_PASSWORD='your password'
 ```
 
 Create a Conda environment and install dependencies.
